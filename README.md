@@ -21,4 +21,4 @@ USING THE WEATHER APP
 
 CREDITS
 -------------
-This is a homework project from PROG 2413 Java Programming II instructed by Dr. Shane May.
+This is a homework project for PROG 2413 Java Programming II instructed by Dr. Shane May.
